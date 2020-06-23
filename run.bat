@@ -1,0 +1,1 @@
+java -jar area-1.jar
